@@ -12,7 +12,6 @@ func Abs(num int) int {
 }
 
 func twoSum(nums []int, target int) []int {
-
 	return []int{1}
 }
 
